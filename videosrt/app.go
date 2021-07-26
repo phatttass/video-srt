@@ -6,7 +6,7 @@ import (
 	"github.com/phatttass/video-srt/videosrt/aliyun/cloud"
 	"github.com/phatttass/video-srt/videosrt/aliyun/oss"
 	"github.com/phatttass/video-srt/videosrt/ffmpeg"
-	"github.com/phatttass/jsonparser"
+	"github.com/buger/jsonparser"
 	"os"
 	"path"
 	"strconv"
